@@ -11,6 +11,7 @@ http://math2.org/math/geometry/circles.htm
 
 // write your solution here...
 
+var radius = 643;
 var circumference = 2 * 3.14 * radius;
 
 console.console.log("The circumference is" + circumference + ".");
