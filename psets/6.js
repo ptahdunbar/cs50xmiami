@@ -14,4 +14,9 @@ Look up the JavaScript string reference to find methods which may be useful!
 
 function mixUp(a, b) {
   // write your solution here...
+  var aTemp = a;
+  var bTemp = b;
+
+  
+
 }

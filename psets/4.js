@@ -11,3 +11,12 @@ http://www.mathsisfun.com/temperature-conversion.html
 */
 
 // write your solution here...
+
+var temp = 34;
+var newTemp = (temp * 2) + 30;
+
+console.console.log(temp"C is " + newTemp + "F.");
+
+var fahrenheit = newTemp;
+
+console.console.log(fahrenheit+ "F is" + temp + "C.");

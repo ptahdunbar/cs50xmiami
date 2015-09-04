@@ -10,3 +10,11 @@ Forgot how old someone is? Calculate it!
 */
 
 // write your solution here...
+
+var year = 2014;
+var birthYear = 1870;
+
+var age = year - birthYear;
+var ageOther = year - (birthYear - 1);
+
+console.log("They are either" + age + "or" + ageOther ".");

@@ -10,3 +10,11 @@ http://math2.org/math/geometry/circles.htm
 */
 
 // write your solution here...
+
+var circumference = 2 * 3.14 * radius;
+
+console.console.log("The circumference is" + circumference + ".");
+
+var area = 3.14 * radius^2;
+
+console.console.log("The area is" + area ".");

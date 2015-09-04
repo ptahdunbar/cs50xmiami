@@ -10,7 +10,16 @@ For example:
 
 fixStart('babble'): 'ba**le'
 */
-
+<script>
 function fixStart(s) {
   // write your solution here...
-}
+  j = s.length;
+
+  for (i = 0; i < j; i++)
+  if (s[i] == s[i]
+    {
+      s[i] == '*';
+    }
+  return s;
+  }
+</script>
