@@ -26,4 +26,5 @@ Write a function that will take one argument (a number) and perform the followin
   - Calculate what percentage that area is of the squared result (#3).
 */
 
+
 // write your solution here...
